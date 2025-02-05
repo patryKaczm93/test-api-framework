@@ -1,0 +1,5 @@
+2025-02-05 13:49:16.821 | INFO     | utils.logger:log_request:6 - 
+
+2025-02-05 13:49:16.821 | INFO     | utils.logger:log_request:7 - URL: https://jsonplaceholder.typicode.com/posts/1
+2025-02-05 13:49:16.821 | INFO     | utils.logger:log_request:8 - Status Code: 200
+2025-02-05 13:49:16.822 | INFO     | utils.logger:log_request:9 - Response: {}
